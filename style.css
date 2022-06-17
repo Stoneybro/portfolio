@@ -1,0 +1,20 @@
+body{
+    margin:0;
+
+    border-top: 2px dotted black;
+}
+li{
+    list-style-type: none;
+}
+header{
+    height: 85vh;
+    margin:1rem 4rem;
+    border-left:  2px dotted black;
+    border-right:  2px dotted black;
+}
+.icon{
+    font-size: 2rem;
+}
+ul{
+    padding: 0;
+}
